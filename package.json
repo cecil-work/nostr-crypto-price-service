@@ -20,8 +20,12 @@
     "typescript": "^4.9.5"
   },
   "dependencies": {
+    "@types/cron": "^2.0.0",
     "ccxt": "^2.6.36",
-    "meow": "^11.0.0",
-    "nostr-tools": "^1.2.1"
+    "cron": "^2.2.0",
+    "dayjs": "^1.11.7",
+    "meow": "9.0.0",
+    "nostr-tools": "^1.2.1",
+    "websocket-polyfill": "^0.0.3"
   }
 }
